@@ -35,9 +35,6 @@ System for managing appliance bookings and customer orders.
 ### 📦 C++ Order Processing System
 Inventory and order processing system built in C++.
 
-### 🧠 Python Quiz Application
-Command-line quiz system with scoring and timer functionality.
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Contact Me
