@@ -43,5 +43,6 @@ Command-line quiz system with scoring and timer functionality.
 ## 📫 Contact Me
 
 Email: mlambomlindosi@gmail.com  
+Phone: 071 576 4699
 LinkedIn: www.linkedin.com/in/mlindosi-mlambo-b2a309376  
 GitHub: https://github.com/MLindosi05
