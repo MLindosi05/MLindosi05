@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Lindelani Mlambo 👋
 
-<!--
-**MLindosi05/MLindosi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science & IT Student  
+🎓 University of KwaZulu-Natal  
+📍 Pietermaritzburg, South Africa  
 
-Here are some ideas to get you started:
+I am passionate about building software solutions and learning new technologies. My interests include backend development, data structures, and system design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🔧 Technologies & Tools
+
+Languages:
+Java | Python | C++ | C# | Visual Basic
+
+Web:
+HTML | CSS 
+
+Databases:
+SQL | MySQL
+
+Tools:
+GitHub | VS Code | Visual Studio
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🚀 Projects
+
+### ✈ Airplane Booking System
+Java application for managing flight reservations and passenger records.
+
+### ⚡ Electric Appliances Online Booking System
+System for managing appliance bookings and customer orders.
+
+### 📦 C++ Order Processing System
+Inventory and order processing system built in C++.
+
+### 🧠 Python Quiz Application
+Command-line quiz system with scoring and timer functionality.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 📫 Contact Me
+
+Email: mlambomlindosi@gmail.com  
+LinkedIn: www.linkedin.com/in/mlindosi-mlambo-b2a309376  
+GitHub: https://github.com/MLindosi05
