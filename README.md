@@ -8,19 +8,27 @@ I am passionate about building software solutions and learning new technologies.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## 🎓 Certifications
+
+- Introduction to Front End Development – Simplilearn (April 2026)  
+  Certificate Code: 10082275  
+  Skills: HTML, CSS, JavaScript, Responsive Web Design
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🔧 Technologies & Tools
 
-Languages:
-Java | Python | C++ | C# | Visual Basic
+Languages:  
+Java | Python | C++ | C# | Visual Basic  
 
-Web:
-HTML | CSS 
+Web:  
+HTML | CSS | JavaScript  
 
-Databases:
-SQL | MySQL
+Databases:  
+SQL | MySQL  
 
-Tools:
-GitHub | VS Code | Visual Studio
+Tools:  
+GitHub | VS Code | Visual Studio  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -40,6 +48,6 @@ Inventory and order processing system built in C++.
 ## 📫 Contact Me
 
 Email: mlambomlindosi@gmail.com  
-Phone: 071 576 4699
+Phone: 071 576 4699  
 LinkedIn: www.linkedin.com/in/mlindosi-mlambo-b2a309376  
-GitHub: https://github.com/MLindosi05
+GitHub: https://github.com/MLindosi05  
