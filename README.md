@@ -37,7 +37,7 @@ GitHub | VS Code | Visual Studio
 ### 🌐 Personal Portfolio Website
 Responsive portfolio website built using HTML, CSS, and JavaScript.
 
-🔗 Live Demo: https://MLindosi05.github.io/portfolio-website  
+🔗 Live Demo: https://mlindosi05.github.io/portfolio-website  
 🔗 GitHub Repo: https://github.com/MLindosi05/portfolio-website  
 
 ---
