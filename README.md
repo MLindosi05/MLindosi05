@@ -38,7 +38,7 @@ GitHub | VS Code | Visual Studio
 Responsive portfolio website built using HTML, CSS, and JavaScript.
 
 🔗 Live Demo: https://mlindosi05.github.io/
-🔗 GitHub Repo: https://github.com/MLindosi05/portfolio-website  
+🔗 GitHub Repo: https://github.com/mlindosi05.github.io
 
 ---
 
